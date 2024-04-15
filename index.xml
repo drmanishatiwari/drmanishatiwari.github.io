@@ -52,7 +52,7 @@ to embed your video files from &lt;a
     
     
     playsinline
-  &gt;&lt;source src=&#34;https://drmanishatiwari.github.io/blog/embed-video-files/my-video.mp4&#34; type=&#34;video/mp4&#34; /&gt;&lt;source src=&#34;https://drmanishatiwari.github.io/blog/embed-video-files/my-video.webm&#34; type=&#34;video/webm&#34; /&gt;&lt;/video&gt;</description>
+  &gt;&lt;source src=&#34;./blog/embed-video-files/my-video.mp4&#34; type=&#34;video/mp4&#34; /&gt;&lt;source src=&#34;./blog/embed-video-files/my-video.webm&#34; type=&#34;video/webm&#34; /&gt;&lt;/video&gt;</description>
     </item>
     
     <item>
