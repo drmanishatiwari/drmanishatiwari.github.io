@@ -2,64 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/de/categories/</loc>
+    <loc>https://drmanishatiwari.github.io/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="https://drmanishatiwari.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/categories/"
+                href="https://drmanishatiwari.github.io/de/categories/"
                 />
   </url><url>
-    <loc>/de/</loc>
+    <loc>https://drmanishatiwari.github.io/de/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="https://drmanishatiwari.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/"
+                href="https://drmanishatiwari.github.io/de/"
                 />
   </url><url>
-    <loc>/de/cv/</loc>
+    <loc>https://drmanishatiwari.github.io/de/cv/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/cv/"
+                href="https://drmanishatiwari.github.io/cv/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/cv/"
+                href="https://drmanishatiwari.github.io/de/cv/"
                 />
   </url><url>
-    <loc>/de/series/</loc>
+    <loc>https://drmanishatiwari.github.io/de/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/series/"
+                href="https://drmanishatiwari.github.io/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/series/"
+                href="https://drmanishatiwari.github.io/de/series/"
                 />
   </url><url>
-    <loc>/de/tags/</loc>
+    <loc>https://drmanishatiwari.github.io/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="https://drmanishatiwari.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="/de/tags/"
+                href="https://drmanishatiwari.github.io/de/tags/"
                 />
   </url>
 </urlset>
