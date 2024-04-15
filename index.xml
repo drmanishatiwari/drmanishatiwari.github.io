@@ -1,156 +1,92 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hugo-theme-gruvbox</title>
-    <link>http://manishatiwari.com/</link>
-    <description>Recent content on hugo-theme-gruvbox</description>
+    <title>Initio - Free, multipurpose html5 template by GetTemplate</title>
+    <link>https://manishatiwari.com/</link>
+    <description>Recent content on Initio - Free, multipurpose html5 template by GetTemplate</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copyright © 2021</copyright>
-    <lastBuildDate>Tue, 26 Apr 2022 01:16:18 +0200</lastBuildDate><atom:link href="http://manishatiwari.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Jun 2013 12:00:00 +0000</lastBuildDate><atom:link href="https://manishatiwari.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Embed Video Files</title>
-      <link>http://manishatiwari.com/blog/embed-video-files/</link>
-      <pubDate>Tue, 26 Apr 2022 01:16:18 +0200</pubDate>
-      
-      <guid>http://manishatiwari.com/blog/embed-video-files/</guid>
-      <description>&lt;p&gt;Use the &lt;a
-  href=&#34;https://github.com/schnerring/hugo-theme-gruvbox/blob/main/layouts/shortcodes/video.html&#34;
-  
-  
-    class=&#34;link--external&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;
-  
-&gt;video shortcode&lt;/a&gt;
-to embed your video files from &lt;a
-  href=&#34;https://gohugo.io/content-management/page-resources/&#34;
-  
-  
-    class=&#34;link--external&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;
-  
-&gt;Hugo Page Resources&lt;/a&gt;.&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  &lt;video
-    autoplay
-    
-    
-    loop
-    
-    poster=&#34;/blog/embed-video-files/my-video.jpg&#34;
-    
-    
-    playsinline
-  &gt;&lt;source src=&#34;./blog/embed-video-files/my-video.mp4&#34; type=&#34;video/mp4&#34; /&gt;&lt;source src=&#34;./blog/embed-video-files/my-video.webm&#34; type=&#34;video/webm&#34; /&gt;&lt;/video&gt;</description>
-    </item>
-    
-    <item>
-      <title>Image Optimization</title>
-      <link>http://manishatiwari.com/blog/image-optimization/</link>
-      <pubDate>Sat, 16 Oct 2021 23:51:37 +0200</pubDate>
-      
-      <guid>http://manishatiwari.com/blog/image-optimization/</guid>
-      <description>The theme optimizes images by default with a custom Hugo&amp;rsquo;s markdown render hook:
-The theme creates resized versions for each image, ranging from 100 to 700 pixels wide. It generates WebP versions for each size if the original image format isn&amp;rsquo;t WebP. The theme keeps the original file format as a fallback for browsers that don&amp;rsquo;t support the WebP format. Images in SVG format are embedded as-is. Blog Post Cover Images# Use the front matter of your posts to add cover images:</description>
-    </item>
-    
-    <item>
-      <title>Prism Code Highlighting Showcase</title>
-      <link>http://manishatiwari.com/blog/prism-code-highlighting-showcase/</link>
-      <pubDate>Wed, 28 Jul 2021 04:25:37 +0200</pubDate>
-      
-      <guid>http://manishatiwari.com/blog/prism-code-highlighting-showcase/</guid>
-      <description>&lt;p&gt;This theme uses &lt;a
-  href=&#34;https://prismjs.com/&#34;
-  
-  
-    class=&#34;link--external&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;
-  
-&gt;Prism&lt;/a&gt; for code highlighting. Other Hugo
-themes usually include a pre-configured version of Prism, which complicates
-updates and clutters the source code base with third-party JavaScript.&lt;/p&gt;
-&lt;p&gt;Only the Prism features you select in the Hugo site configuration are bundled by
-the build process. This way, Prism can be easily updated with &lt;code&gt;npm&lt;/code&gt; and the
-size of the JavaScript and CSS bundles are minimized by only including what you
-need.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Markdown Syntax Guide</title>
-      <link>http://manishatiwari.com/blog/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://manishatiwari.com/blog/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Rich Content</title>
-      <link>http://manishatiwari.com/blog/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://manishatiwari.com/blog/rich-content/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a
-  href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;
-  
-  
-    class=&#34;link--external&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;
-  
-&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a
-  href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;
-  
-  
-    class=&#34;link--external&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;
-  
-&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Placeholder Text</title>
-      <link>http://manishatiwari.com/blog/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://manishatiwari.com/blog/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Math Typesetting</title>
-      <link>http://manishatiwari.com/blog/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://manishatiwari.com/blog/math-typesetting/</guid>
-      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
-      <link>http://manishatiwari.com/blog/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://manishatiwari.com/blog/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>CV</title>
-      <link>http://manishatiwari.com/cv/</link>
+      <title>Download original template</title>
+      <link>https://manishatiwari.com/home/downloads/download1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://manishatiwari.com/cv/</guid>
-      <description>Experience# CEO/President 2013-12-01 - 2014-12-01 Pied Piper — Awesome compression company Palo Alto, CA Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.
-Build an algorithm for artist to detect if their music was violating copy right infringement laws Successfully won Techcrunch Disrupt Optimized an algorithm that holds the current world record for Weisman Scores Education# Information Technology (Bachelor) 2011-06-01 - 2014-01-01 University of Oklahoma 4.</description>
+      <guid>https://manishatiwari.com/home/downloads/download1/</guid>
+      <description>A simple, nice-looking call to action box. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://manishatiwari.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://manishatiwari.com/about/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam beatae soluta accusantium iusto nihil nesciunt unde veniam magnam repudiandae sapiente.
+Necessitatibus Velit, odit, eius, libero unde impedit quaerat dolorem assumenda alias consequuntur optio quae maiores ratione tempore sit aliquid architecto eligendi pariatur ab soluta doloremque dicta aspernatur labore quibusdam dolore corrupti quod inventore. Maiores, repellat, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam!</description>
+    </item>
+    
+    <item>
+      <title>Vivamus Lacus Mauris</title>
+      <link>https://manishatiwari.com/post/vivamus-lacus-mauris/</link>
+      <pubDate>Mon, 17 Jun 2013 12:00:00 +0000</pubDate>
+      
+      <guid>https://manishatiwari.com/post/vivamus-lacus-mauris/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit, rerum voluptates veniam. Esse, nihil, ea, eaque, quos cum id tempore voluptate nisi nemo debitis impedit officiis culpa repellat voluptatum in aperiam error quo minima ratione ex pariatur maxime eligendi dolore nesciunt molestiae enim alias atque commodi delectus perferendis. Blanditiis, iste placeat nostrum in! Eligendi, omnis, unde, quos ullam nesciunt molestias quis a saepe nisi distinctio molestiae voluptate obcaecati officiis consequuntur similique aspernatur rerum sequi placeat iure quaerat itaque libero officia recusandae ad corrupti aperiam cum beatae.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://manishatiwari.com/home/subheader/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://manishatiwari.com/home/subheader/</guid>
+      <description>Let me tell you something my friend. hope is a dangerous thing. hope can drive a man insane. you measure yourself by the people who measure themselves by you. it only took me six days.</description>
+    </item>
+    
+    <item>
+      <title>Application development</title>
+      <link>https://manishatiwari.com/home/services/service3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://manishatiwari.com/home/services/service3/</guid>
+      <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Custom website design</title>
+      <link>https://manishatiwari.com/home/services/service1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://manishatiwari.com/home/services/service1/</guid>
+      <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Download HUGO template</title>
+      <link>https://manishatiwari.com/home/downloads/download2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://manishatiwari.com/home/downloads/download2/</guid>
+      <description>Another simple, nice-looking call to action box. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.</description>
+    </item>
+    
+    <item>
+      <title>SEO &amp; SEM services</title>
+      <link>https://manishatiwari.com/home/services/service4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://manishatiwari.com/home/services/service4/</guid>
+      <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Wordpress integration</title>
+      <link>https://manishatiwari.com/home/services/service2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://manishatiwari.com/home/services/service2/</guid>
+      <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
     </item>
     
   </channel>
