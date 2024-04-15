@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on hugo-theme-gruvbox</title>
-    <link>https://drmanishatiwari.github.io/categories/</link>
+    <link>http://manishatiwari.com/categories/</link>
     <description>Recent content in Categories on hugo-theme-gruvbox</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2021</copyright>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://drmanishatiwari.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://manishatiwari.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>syntax</title>
-      <link>https://drmanishatiwari.github.io/categories/syntax/</link>
+      <link>http://manishatiwari.com/categories/syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://drmanishatiwari.github.io/categories/syntax/</guid>
+      <guid>http://manishatiwari.com/categories/syntax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>https://drmanishatiwari.github.io/categories/themes/</link>
+      <link>http://manishatiwari.com/categories/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://drmanishatiwari.github.io/categories/themes/</guid>
+      <guid>http://manishatiwari.com/categories/themes/</guid>
       <description></description>
     </item>
     
