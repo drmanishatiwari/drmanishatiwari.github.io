@@ -2,21 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://manishatiwari.com/en/page/about/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://manishatiwari.com/de/page/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://manishatiwari.com/en/page/about/"
-                />
+    <loc>https://manishatiwari.com/en/tags/articles/</loc>
+    <lastmod>2023-09-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://manishatiwari.com/en/blog/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
+    <lastmod>2023-09-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -29,7 +19,7 @@
                 />
   </url><url>
     <loc>https://manishatiwari.com/en/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
+    <lastmod>2023-09-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -51,47 +41,14 @@
                 href="https://manishatiwari.com/en/"
                 />
   </url><url>
-    <loc>https://manishatiwari.com/en/tags/emoji/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://manishatiwari.com/de/tags/emoji/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://manishatiwari.com/en/tags/emoji/"
-                />
+    <loc>https://manishatiwari.com/en/tags/sleep/</loc>
+    <lastmod>2023-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://manishatiwari.com/en/blog/emoji-support/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://manishatiwari.com/de/blog/emoji-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://manishatiwari.com/en/blog/emoji-support/"
-                />
-  </url><url>
-    <loc>https://manishatiwari.com/en/page/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://manishatiwari.com/de/page/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://manishatiwari.com/en/page/"
-                />
+    <loc>https://manishatiwari.com/en/blog/sleep-for-healthy-life/</loc>
+    <lastmod>2023-09-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://manishatiwari.com/en/tags/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
+    <lastmod>2023-09-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -111,126 +68,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://manishatiwari.com/en/tags/"
-                />
-  </url><url>
-    <loc>https://manishatiwari.com/en/tags/css/</loc>
-    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://manishatiwari.com/de/tags/css/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://manishatiwari.com/en/tags/css/"
-                />
-  </url><url>
-    <loc>https://manishatiwari.com/en/tags/html/</loc>
-    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://manishatiwari.com/de/tags/html/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://manishatiwari.com/en/tags/html/"
-                />
-  </url><url>
-    <loc>https://manishatiwari.com/en/tags/markdown/</loc>
-    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://manishatiwari.com/de/tags/markdown/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://manishatiwari.com/en/tags/markdown/"
-                />
-  </url><url>
-    <loc>https://manishatiwari.com/en/blog/markdown-syntax/</loc>
-    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://manishatiwari.com/de/blog/markdown-syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://manishatiwari.com/en/blog/markdown-syntax/"
-                />
-  </url><url>
-    <loc>https://manishatiwari.com/en/blog/math-typesetting/</loc>
-    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://manishatiwari.com/en/blog/placeholder-text/</loc>
-    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://manishatiwari.com/de/blog/placeholder-text/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://manishatiwari.com/en/blog/placeholder-text/"
-                />
-  </url><url>
-    <loc>https://manishatiwari.com/en/tags/privacy/</loc>
-    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://manishatiwari.com/de/tags/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://manishatiwari.com/en/tags/privacy/"
-                />
-  </url><url>
-    <loc>https://manishatiwari.com/en/blog/rich-content/</loc>
-    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://manishatiwari.com/de/blog/rich-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://manishatiwari.com/en/blog/rich-content/"
-                />
-  </url><url>
-    <loc>https://manishatiwari.com/en/tags/shortcodes/</loc>
-    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://manishatiwari.com/de/tags/shortcodes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://manishatiwari.com/en/tags/shortcodes/"
-                />
-  </url><url>
-    <loc>https://manishatiwari.com/en/tags/text/</loc>
-    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://manishatiwari.com/de/tags/text/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://manishatiwari.com/en/tags/text/"
                 />
   </url><url>
     <loc>https://manishatiwari.com/en/categories/</loc>
