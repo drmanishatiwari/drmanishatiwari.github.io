@@ -50,6 +50,18 @@
                 href="https://manishatiwari.com/en/tags/"
                 />
   </url><url>
+    <loc>https://manishatiwari.com/en/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="np"
+                href="https://manishatiwari.com/np/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://manishatiwari.com/en/about/"
+                />
+  </url><url>
     <loc>https://manishatiwari.com/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
