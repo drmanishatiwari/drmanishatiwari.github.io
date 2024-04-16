@@ -5,16 +5,6 @@
     <link>https://manishatiwari.com/de/</link>
     <description>Recent content on Blist (mehrsprachig)</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de</language>
-    <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://manishatiwari.com/de/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Über mich</title>
-      <link>https://manishatiwari.com/de/page/about/</link>
-      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://manishatiwari.com/de/page/about/</guid>
-      <description></description>
-    </item>
-    
+    <language>de</language><atom:link href="https://manishatiwari.com/de/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
